@@ -1,3 +1,1 @@
 # AthensConfReactWorkshop
-
-test 2
